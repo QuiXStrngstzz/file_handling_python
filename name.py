@@ -65,7 +65,7 @@ def delete_name():
             
         print(input("SUCCESSFUL DELETED! . . . "))
     except:
-         print(input("No Such Name! . . ."))
+         print(input("Bruhh No Such Name! . . ."))
             
         
     file = open("name.txt", "w")
