@@ -3,7 +3,7 @@ import os
 def add_name():
     name_list = []
     
-    size = int(input("HOW MANY NAMES? "))
+    size = int(input("HOW MANY PANGALAN? "))
         
     for i in range(size):
         name_list.append(input(f"{i + 1} NAME: "))
